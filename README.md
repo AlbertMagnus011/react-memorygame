@@ -1,21 +1,38 @@
 # 🎮 Jogo da Memória
 
-Aplicação desenvolvida em **React + TypeScript + Tailwind** apresenta um clássico jogo de memória.
+Aplicação desenvolvida com **React, TypeScript, Tailwind CSS e Next.js**, que implementa um clássico jogo da memória.
 
-Projeto desenvolvido durante o curso da [B7web](https://b7web.com.br).
+O objetivo do jogo é encontrar todos os pares de cartas no menor número de tentativas possível.
 
+Projeto desenvolvido durante o curso da B7web.
+
+---
+
+## 🚀 Deploy
+
+Você pode acessar o projeto online aqui:  
+👉 [Jodo da Mémoria](https://react-memorygame-magalb.vercel.app/)
+
+---
+
+## 📸 Preview
+
+![alt imagem de pré-visualização](preview.png)
+
+---
 
 ## 🛠️ Tecnologias utilizadas
 
 - React
 - TypeScript
-- Tailwind
+- Tailwind CSS
 - Next.js
+- Vercel (deploy)
 
 ---
 
-## 📦 Instalação & Inicialização
+## 🚀 Como rodar o projeto
 
+### 📦 Instalar dependências
 ```bash
 npm install
-npm run dev
